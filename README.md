@@ -24,7 +24,7 @@
 
 - Aplicacação do HTML semântico
 - Utilização de listas não ordenadas
-- Estilização com css puro
+- Estilização com CSS puro
 
 
 ## 🛠 Tecnologias
