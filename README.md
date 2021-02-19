@@ -21,12 +21,11 @@
 📚 Uma aplicação desenvolvida com o intuito de praticar meus conhecimentos com HTML e CSS.
 
 ## 📚 O que pratiquei/aprendi com essa aplicação
-<!-- 
-- Manipulação do DOM
-- Utilização do document.querySelector para obter a referência dos elementos
-- Utilização de eventos de clique
-- Utilização do método some()
-- Refatoração de código -->
+
+- Aplicacação do HTML semântico
+- Utilização de listas não ordenadas
+- Estilização com css puro
+
 
 ## 🛠 Tecnologias
 
