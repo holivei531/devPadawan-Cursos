@@ -1,3 +1,4 @@
+/* Resetando estilo padrão do browser */
 * {
     box-sizing: border-box;
     margin: 0;
@@ -6,10 +7,12 @@
     font-family: "Poppins", sans-serif;
 }
 
+/* Adicionando cor de fundo ao body */
 body {
     background: #f1f1f1;
 }
 
+/* Estilizando o header */
 header {
     padding: 30px;
 
