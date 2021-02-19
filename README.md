@@ -7,9 +7,9 @@
 <h1 align="center">DevPadawan Cursos</h1>
 
 <!-- Gif -->
-<p align="center">
+<!-- <p align="center">
   <img alt="DevPadawan" src="">
-</p>
+</p> -->
 
 <!-- Estado da aplicação -->
 <h4 align="center"> 
@@ -35,7 +35,7 @@
 
 ## :memo: Licença
 
-Este projeto está sob a licença do MIT. Consulte a [LICENÇA]() para obter mais informações.
+Este projeto está sob a licença do MIT. Consulte a [LICENÇA](https://github.com/holivei531/devPadawan-Cursos/blob/master/LICENSE) para obter mais informações.
 
 ### Link da aplicação
 Você pode acessar facilmente a aplicaçao clicando [aqui]().
