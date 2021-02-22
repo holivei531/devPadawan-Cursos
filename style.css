@@ -49,3 +49,8 @@ nav a:hover {
     background: #f1f1f1;
     color: #56a7f2;
 }
+
+/* Estilizando a section  */
+section article img {
+    width: 100%;
+}
