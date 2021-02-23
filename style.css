@@ -53,7 +53,7 @@ nav a:hover {
 }
 
 /* Estilizando a section  */
-section article img {
+section, article, img {
     width: 100%;
 }
 
