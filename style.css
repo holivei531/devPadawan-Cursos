@@ -63,3 +63,10 @@ section {
     float: left;
     width: 75%;
 }
+
+/* Estilizando o aside */
+
+aside {
+    float: left;
+    width: 25%;
+}
