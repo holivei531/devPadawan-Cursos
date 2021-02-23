@@ -54,3 +54,7 @@ nav a:hover {
 section article img {
     width: 100%;
 }
+
+.row {
+    padding: 0 20px;
+}
