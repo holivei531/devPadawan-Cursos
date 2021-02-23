@@ -58,3 +58,8 @@ section article img {
 .row {
     padding: 0 20px;
 }
+
+section {
+    float: left;
+    width: 75%;
+}
