@@ -83,6 +83,8 @@ aside {
 
 /* Estilizando o footer */
 footer {
+    display: table;
+    width: 100%;
     margin-top: 20px;
     padding: 20px;
 
@@ -90,6 +92,21 @@ footer {
     color: #fff;
 }
 
+footer dl, footer p {
+    display: table-cell;
+    vertical-align: middle;
+}
+
 footer dt {
     font-weight: bold;
+}
+
+footer dd {
+    margin-left: 0;
+}
+
+footer p {
+    text-align: right;
+    font-weight: bold;
+    font-size: 1.5rem;
 }
